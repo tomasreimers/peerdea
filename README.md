@@ -1,4 +1,5 @@
 # Peerdea
+*Share your ideas with your peers.*
 
 ## About
 
